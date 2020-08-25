@@ -1,1 +1,2 @@
-konafa
+np = p
+
